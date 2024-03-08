@@ -1,4 +1,4 @@
-#ScreenShots & Recording
+# ScreenShots & Recording
 
 The screenshots and screen recording of the running 'movies-on-the-tip' App is uploaded on the Google Drive.
 Link: -
